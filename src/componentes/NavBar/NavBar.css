@@ -1,0 +1,29 @@
+.header {
+    background-color: #c38e70;
+    border-bottom: 0.14rem solid #b27a5a;
+}
+
+.header .nav__ul__li__img {
+    width: 7rem;
+}
+
+.header .navbar-links {
+    color: #8a5a44;
+    font-size: 1.26rem;
+    font-family: "Rubik", sans-serif;
+    padding: 0.1rem;
+}
+
+.header .navbar-links .nav-link:hover {
+    color: #6b4736;
+}
+
+.nav-link {
+    margin: .5rem;
+    cursor: pointer;
+}
+
+.cart-count {
+    color: #654333;
+    right: 10px;
+}
